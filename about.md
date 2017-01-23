@@ -21,5 +21,5 @@ permalink: /about/
 <li><a href="mailto:malin4@myseneca.ca">Ian - malin4@myseneca.ca</a></li>
 <li><a href="mailto:msoobaroyen@myseneca.ca">Mooven - msoobaroyen@myseneca.ca</a></li>
 <li><a href="mailto:kyamin@myseneca.ca">Kashif - kyamin@myseneca.ca</a></li>
-<li><a href="mailto:abaadheem@myseneca.ca">abaadheem@myseneca.ca</a>Aziz</li>
+<li>Aziz: <a href="mailto:abaadheem@myseneca.ca">abaadheem@myseneca.ca</a></li>
 </ul>
