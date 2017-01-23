@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1st Blog
+title: Weekly Progress
 comments: true
 ---
 
