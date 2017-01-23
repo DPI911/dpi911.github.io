@@ -8,7 +8,11 @@ Hi everyone, please post a comment of the MAC addresses and for the systems you 
 Here's an example:
 
 Group: Fantastic 5
-DHCP Server 1:
-- MAC Address: 52:54:00:48:80:59
+<ul>
+<li>DHCP Server 1:</li>
+<ul>
+<li>MAC Address: 52:54:00:48:80:59</li>
+</ul>
+</ul>
 
 Thanks!
