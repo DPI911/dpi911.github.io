@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project Plan
-permalink: /plan/
+title: Network Topology
+permalink: /network/
 ---
 
 Currently in the process of being decided.
